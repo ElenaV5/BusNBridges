@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3741f96f-f1d9-42cb-9b71-4a3b62c95546" name="Changes" comment="Created project Bus and Bridges">
+    <list default="true" id="3741f96f-f1d9-42cb-9b71-4a3b62c95546" name="Changes" comment="Fixed priject">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +49,19 @@
       <option name="project" value="LOCAL" />
       <updated>1671524122724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed priject">
+      <created>1671524788498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671524788498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created project Bus and Bridges" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created project Bus and Bridges" />
+    <MESSAGE value="Fixed priject" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed priject" />
   </component>
 </project>
