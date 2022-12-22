@@ -34,7 +34,7 @@ public class Main {
             int t2 = 437; //высота автобуса
             int i = 1; //кол-во мостов
             int N = in.nextInt(); // кол-во мостов
-            while (i <= N && N <= 10000){ //скорее всего здесь  <=, чем <
+            while (i <= N){ //скорее всего здесь  <=, чем <
                 t = in.nextInt();
                 if (t < t2) {
                     System.out.println("Crash " + i);
@@ -45,10 +45,10 @@ public class Main {
             if(t > t2){
                 System.out.println("No crash");
             }
-            //Выходные данные: (1 500) "";
+            //Выходные данные (i<N): (1 500) "";
                             // (4 500 400 550 500) "Crash 2";
                             // (3 500 555 300) "No crash"
-            //Выходные данные (Елена): (1 500) "No crash";
+            //Выходные данные (i<=N): (1 500) "No crash";
                             // (4 500 400 550 500) "Crash 2";
                             // (3 500 555 300) "Crash 3"
 
